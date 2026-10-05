@@ -1,0 +1,20 @@
+# Git Ignore
+
+A `.gitignore` file specifies files and directories that Git should ignore.
+
+It is usually placed in the root directory of the Git repository.
+
+## Why Use `.gitignore`?
+
+### 1. Ignore Unnecessary Files
+
+Examples include:
+
+- Compiled files
+- Temporary files
+- Log files
+- IDE-specific files
+
+### 2. Avoid Sensitive Information
+
+It can help prevent sensitive configuration files containing information such as API keys or passwords from being committed.
