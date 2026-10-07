@@ -1,0 +1,14 @@
+body {
+    fronnt-family: arial,sans-serif;
+    background-color: rgb(37, 196, 127);
+
+}
+
+h1{
+    color: orange;
+}
+
+p{
+    font-sixe: 14px;
+    line-heheight: 1.5;
+}
